@@ -52,7 +52,7 @@ body.active1 .toggle h3{
 	color: #111;
 }
 body.active2 .toggle h3{
-	color: hsl(52, 100%, 62%);
+	color: hsl(162, 96%, 49%);
 }
 h3{
 	color: #FFF;
@@ -99,11 +99,12 @@ body.active1 .control p{
 body.active1 .right p{
 	color: #111;
 }
+/* Theme */
 body.active2 .control p{
-	color: hsl(52, 100%, 62%);
+	color: hsl(162, 96%, 49%;)
 }
 body.active2 .right p{
-	color: hsl(52, 100%, 62%);
+	color: hsl(162, 96%, 49%);
 }
 .screen{
 	width: 450px;
@@ -124,9 +125,10 @@ body.active1 #screen{
 	background-color: hsl(0, 0%, 93%);
 	color: #111;
 }
+/* Numbers for final results */
 body.active2 #screen{
 	background-color: var(--tbgkbgsbg);
-	color: hsl(52, 100%, 62%);
+	color: hsl(146, 100%, 62%);
 }
 button{
 	width: 90px;
@@ -145,8 +147,8 @@ body.active1 button{
 }
 body.active2 button{
 	box-shadow: 0px 3px 0px 0px hsl(268, 47%, 21%);
-	background-color: hsl(290, 70%, 36%);
-	color: hsl(52, 100%, 62%);
+	background-color: hsl(290, 95%, 15%);
+	color: hsl(146, 100%, 62%);
 }
 .btn{
 	display: flex;
